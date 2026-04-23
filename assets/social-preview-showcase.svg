@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640">
+  <defs>
+    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#5F322F"/>
+      <stop offset="100%" stop-color="#551122"/>
+    </linearGradient>
+    <style>
+      .title2 { font-family: 'Helvetica Neue', Arial, sans-serif; font-weight: 900; font-size: 96px; fill: #FFFFFF; letter-spacing: -2px; }
+      .sub2 { font-family: 'Helvetica Neue', Arial, sans-serif; font-weight: 500; font-size: 36px; fill: #FFFFFF; opacity: 0.9; }
+      .meta2 { font-family: 'Helvetica Neue', Arial, sans-serif; font-weight: 600; font-size: 24px; fill: #FFFFFF; opacity: 0.8; letter-spacing: 4px; text-transform: uppercase; }
+      .accent2 { font-family: 'Helvetica Neue', Arial, sans-serif; font-weight: 700; font-size: 28px; fill: #AEADB3; }
+    </style>
+  </defs>
+  <rect width="1280" height="640" fill="url(#bg2)"/>
+  <text x="80" y="140" class="meta2">proportione · showcase</text>
+  <text x="80" y="270" class="title2">claude-code-showcase</text>
+  <text x="80" y="330" class="sub2">Real configurations, hooks, MCP patterns</text>
+  <text x="80" y="560" class="accent2">github.com/Proportione · proportione.com</text>
+</svg>

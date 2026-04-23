@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#5F322F"/>
+      <stop offset="100%" stop-color="#3B431C"/>
+    </linearGradient>
+    <style>
+      .title { font-family: 'Helvetica Neue', Arial, sans-serif; font-weight: 900; font-size: 96px; fill: #FFFFFF; letter-spacing: -2px; }
+      .sub { font-family: 'Helvetica Neue', Arial, sans-serif; font-weight: 500; font-size: 36px; fill: #FFFFFF; opacity: 0.9; }
+      .meta { font-family: 'Helvetica Neue', Arial, sans-serif; font-weight: 600; font-size: 24px; fill: #FFFFFF; opacity: 0.8; letter-spacing: 4px; text-transform: uppercase; }
+      .accent { font-family: 'Helvetica Neue', Arial, sans-serif; font-weight: 700; font-size: 28px; fill: #AEADB3; }
+    </style>
+  </defs>
+  <rect width="1280" height="640" fill="url(#bg)"/>
+  <text x="80" y="140" class="meta">proportione · marketplace</text>
+  <text x="80" y="270" class="title">proportione-plugins</text>
+  <text x="80" y="330" class="sub">9 Claude Code QA skills · 8 playbook guides</text>
+  <text x="80" y="560" class="accent">github.com/Proportione · proportione.com</text>
+  <g transform="translate(1050, 480)">
+    <circle cx="0" cy="0" r="90" fill="#FFFFFF" opacity="0.1"/>
+    <text x="0" y="20" text-anchor="middle" font-family="Arial" font-weight="900" font-size="80" fill="#FFFFFF">P</text>
+  </g>
+</svg>
