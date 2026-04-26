@@ -56,6 +56,16 @@ Seventy percent of transformations fail because of people, not technology. The 2
 
 ---
 
+## Featured project
+
+### [Aviaria Civil](https://civil.proportione.com) — Bird-strike risk for civil aviation
+
+Real-time bird-hazard intelligence for pilots and small aerodromes. Twenty-two risk layers (eBird, GBIF, migration corridors, power lines, terrain), route analysis over CORINE land cover, PWA installable on iPad in the cockpit, offline-ready. Built in collaboration with Spain's BACSI (Air & Space Force bird-strike committee). **Free for civil aviation operators.**
+
+→ [civil.proportione.com](https://civil.proportione.com)
+
+---
+
 ## What we publish
 
 <table>
