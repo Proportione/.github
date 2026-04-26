@@ -1,45 +1,62 @@
 <div align="center">
 
-# Proportione
+<img src="https://raw.githubusercontent.com/Proportione/.github/main/profile/assets/hero.svg" alt="Proportione — Strategy, executed." width="100%">
 
-### Estrategia. Tecnología. Personas.
-Con la IA, además: **Ejecución**.
-
-Consultoría ibérica · Madrid ⟷ Aveiro
-[proportione.com](https://proportione.com) · [LinkedIn](https://www.linkedin.com/company/proportione)
+**Iberian AI consultancy** · Headquartered in Aveiro
+[proportione.com](https://proportione.com) · [engineering.proportione.com](https://engineering.proportione.com) · [voxelers.com](https://voxelers.com) · [LinkedIn](https://www.linkedin.com/company/proportione)
 
 </div>
 
 ---
 
-## Nosotros estuvimos antes
+<table width="100%">
+<tr>
+<td align="center" width="33%">
 
-| Año | Hito |
-|-----|------|
-| **2008** | BrainSINS — personalización e-commerce con aprendizaje automático. Inversión y consejo estratégico. |
-| **2014** | BrainSINS reconocida como *Gartner Cool Vendor*. |
-| **2021** | Acceso alfa a Davinci 3 de OpenAI. Licencias pagadas para alumnos de LEINN veinte meses antes de ChatGPT. |
-| **2026** | Código abierto. Marketplace de plugins Claude Code + engineering blog. |
+### 20+ years
+building AI systems
 
-Catorce años aplicando inteligencia artificial a negocios reales. Este repositorio público es parte de ese hilo.
+</td>
+<td align="center" width="33%">
+
+### 5 years
+as Proportione
+
+</td>
+<td align="center" width="33%">
+
+### 2 cities
+Aveiro · Madrid
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Marco 20–60–20
+## Strategy is the work
 
-El 70 % de las transformaciones fracasan por falta de personas. Trabajamos al revés:
+Most AI initiatives fail at the people layer, not the model layer. We were shipping recommender systems before machine learning was a board-level acronym, training teams on GPT-3 twenty months before ChatGPT, and operating production AI agents today. Proportione, founded in 2021, is what twenty years of that work made possible.
 
-- **20 %** — tu equipo define el problema.
-- **60 %** — la inteligencia artificial ejecuta la parte rutinaria.
-- **20 %** — tu equipo valida y aprende.
-
-La inteligencia que importa sigue siendo la humana.
+Our practice is built around three vectors: **strategy** — where AI actually creates leverage; **research** — applied work, publications, and a doctoral programme at the Universidade de Aveiro; and **engineering discipline** — the controls that turn pilots into production.
 
 ---
 
-## Lo que publicamos
+## The 20·60·20 framework
 
-Las herramientas que usamos internamente están disponibles para el equipo técnico de nuestros clientes. No es marketing: es el mismo código que mueve nuestros proyectos.
+```mermaid
+flowchart LR
+    A["<b>20%</b><br/>Define<br/><sub>your team frames<br/>the problem</sub>"] --> B["<b>60%</b><br/>Execute<br/><sub>AI handles the<br/>routine work</sub>"] --> C["<b>20%</b><br/>Validate<br/><sub>your team learns,<br/>refines, owns</sub>"]
+    style A fill:#F5EFE6,stroke:#5F322F,stroke-width:2px,color:#5F322F
+    style B fill:#5F322F,stroke:#5F322F,stroke-width:2px,color:#F5EFE6
+    style C fill:#F5EFE6,stroke:#5F322F,stroke-width:2px,color:#5F322F
+```
+
+Seventy percent of transformations fail because of people, not technology. The 20·60·20 framework keeps human intelligence at the boundaries of every workflow — defining what matters and validating what works — while AI takes the routine middle. It is the only configuration we have seen consistently produce sticky outcomes.
+
+---
+
+## What we publish
 
 <table>
 <tr>
@@ -47,7 +64,7 @@ Las herramientas que usamos internamente están disponibles para el equipo técn
 
 ### [proportione-plugins](https://github.com/Proportione/proportione-plugins)
 
-Marketplace de plugins Claude Code. Nueve skills de control de calidad — revisión profunda, seguridad, arquitectura, rendimiento, WordPress, Terraform — y ocho guías de playbook extraídas de producción.
+Our internal Claude Code marketplace, opened to clients. Nine quality skills — deep review, security, architecture, performance, WordPress, Terraform — and eight playbooks distilled from production work.
 
 `MIT` · `claude-code` · `mcp`
 
@@ -56,9 +73,29 @@ Marketplace de plugins Claude Code. Nueve skills de control de calidad — revis
 
 ### [claude-code-showcase](https://github.com/Proportione/claude-code-showcase)
 
-Configuraciones, hooks, slash commands y patrones de MCP que usamos a diario. Material reutilizable para equipos que quieren llevar IA agéntica a producción.
+Configurations, hooks, slash commands, and MCP patterns we use daily. Reusable material for teams bringing agentic AI into production.
 
-`MIT` · `claude-code` · `showcase`
+`MIT` · `agentic-ai` · `showcase`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [voxelers-3d](https://github.com/Proportione/voxelers-3d)
+
+Voxel-native 3D stack — Blender, MagicaVoxel, Godot, procedural generation. The geometric primitive behind our digital-twin and creative work. See [voxelers.com](https://voxelers.com).
+
+`Apache-2.0` · `digital-twin` · `voxels`
+
+</td>
+<td width="50%" valign="top">
+
+### [engineering.proportione.com](https://engineering.proportione.com)
+
+Engineering blog. Post-mortems, architecture decisions, and applied research from the team — written in English, for technical audiences.
+
+`Jekyll` · `publications`
 
 </td>
 </tr>
@@ -67,18 +104,18 @@ Configuraciones, hooks, slash commands y patrones de MCP que usamos a diario. Ma
 
 ### [porqueViven](https://github.com/Proportione/porqueViven)
 
-Trabajo conjunto con la fundación porqueViven. Plataforma formativa para cuidadores de niños crónicamente enfermos.
+Open-source work with the porqueViven foundation. Tooling for caregivers of chronically ill children — pro-bono engineering, public license.
 
-`MIT` · Tercer sector · Educación
+`MIT` · `third-sector`
 
 </td>
 <td width="50%" valign="top">
 
-### Engineering blog
+### Research line
 
-[engineering.proportione.com](https://engineering.proportione.com) — post-mortems, decisiones de arquitectura y material reutilizable.
+Doctoral research at **Universidade de Aveiro** in *Business Innovation*, working at the intersection of generative AI and organisational change. Field notes on the engineering blog.
 
-`En construcción`
+`PhD` · `research`
 
 </td>
 </tr>
@@ -86,23 +123,23 @@ Trabajo conjunto con la fundación porqueViven. Plataforma formativa para cuidad
 
 ---
 
-## Cómo trabajamos
+## How we operate
 
-Todo cambio pasa por revisión de pares con branch protection activa. Los despliegues a producción requieren aprobación manual en un environment separado. Cada decisión queda en audit log. Nuestros clientes no dependen de una persona, dependen de un proceso auditable — y cuando procede, del código público.
+Every change is peer-reviewed under branch protection. Production deploys require manual approval in a separate environment. Every decision is in the audit log. Our clients do not depend on a person — they depend on a process that can be inspected, reproduced, and where appropriate, opened.
 
 [Issues](https://github.com/Proportione/proportione-plugins/issues) · [Discussions](https://github.com/Proportione/proportione-plugins/discussions) · [Security policy](https://github.com/Proportione/proportione-plugins/blob/main/SECURITY.md)
 
 ---
 
-## Dónde estamos
+## Where we are
 
-**Madrid** · **Aveiro** (Rua D. Jorge de Lencastre 10A)
-Javier Cuervo es doctorando en *Business Innovation* en la Universidade de Aveiro.
+**Aveiro, Portugal** — Rua D. Jorge de Lencastre 10A
+Madrid presence · Iberian footprint · LATAM-ready
 
 ---
 
 <div align="center">
 
-**¿Hablamos?** → [proportione.com/contacto](https://proportione.com/contacto)
+[**proportione.com/contact**](https://proportione.com/contacto)
 
 </div>
