@@ -72,6 +72,26 @@ Real-time bird-hazard intelligence for pilots and small aerodromes. Twenty-two r
 <tr>
 <td width="50%" valign="top">
 
+### [prisma](https://github.com/Proportione/prisma)
+
+A Python toolkit for systematic literature reviews. PRISMA 2020 reporting, MMAT 2018 quality assessment, full-text extraction, bibliometric clustering. CLI + Streamlit demo. Born from our doctoral research at UA.
+
+`MIT` · `research` · `prisma-2020` · `python`
+
+</td>
+<td width="50%" valign="top">
+
+### Research line
+
+Doctoral research at **Universidade de Aveiro** in *Business Innovation*, working at the intersection of generative AI and organisational change. Field notes on the engineering blog.
+
+`PhD` · `research`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### [proportione-plugins](https://github.com/Proportione/proportione-plugins)
 
 Our internal Claude Code marketplace, opened to clients. Nine quality skills — deep review, security, architecture, performance, WordPress, Terraform — and eight playbooks distilled from production work.
@@ -120,12 +140,6 @@ Open-source work with the porqueViven foundation. Tooling for caregivers of chro
 
 </td>
 <td width="50%" valign="top">
-
-### Research line
-
-Doctoral research at **Universidade de Aveiro** in *Business Innovation*, working at the intersection of generative AI and organisational change. Field notes on the engineering blog.
-
-`PhD` · `research`
 
 </td>
 </tr>
