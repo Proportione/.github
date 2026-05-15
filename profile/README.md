@@ -141,6 +141,12 @@ Open-source work with the porqueViven foundation. Tooling for caregivers of chro
 </td>
 <td width="50%" valign="top">
 
+### [Café Proportione PT](https://open.spotify.com/show/4CJj2IGBwpbxpyPTFmt3je)
+
+Podcast em português sobre IA, indústria e ecossistemas ibéricos. Episódio 01: *dois anos em Aveiro, em silêncio*. [Spotify](https://open.spotify.com/show/4CJj2IGBwpbxpyPTFmt3je) · [YouTube](https://youtu.be/af5ZztGznl4)
+
+`pt-PT` · `podcast` · `Aveiro`
+
 </td>
 </tr>
 </table>
