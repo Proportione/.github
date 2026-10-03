@@ -1,175 +1,74 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Proportione/.github/main/profile/assets/hero.svg" alt="Proportione — Strategy, executed." width="100%">
+<img src="https://raw.githubusercontent.com/Proportione/.github/main/profile/assets/strategy-hero.svg" alt="Proportione — Technology strategy. Made tangible." width="100%">
 
-**Iberian AI consultancy** · Headquartered in Aveiro
-[proportione.com](https://proportione.com) · [engineering.proportione.com](https://engineering.proportione.com) · [voxelers.com](https://voxelers.com) · [LinkedIn](https://www.linkedin.com/company/proportione)
+**Technology strategy. Made tangible.**
+
+We work with leadership teams to connect business ambition, technology decisions and the people who make them work.
+
+**Aveiro · Madrid**
+
+[Our practice](https://proportione.com) · [Client stories](https://proportione.com/clientes/) · [Engineering journal](https://engineering.proportione.com) · [Start a conversation](https://proportione.com/contacto/)
 
 </div>
 
 ---
 
-<table width="100%">
-<tr>
-<td align="center" width="33%">
+## The decisions behind the next stage of growth
 
-### 20+ years
-building AI systems
+A new platform, an AI initiative or a digital service starts with a business decision. We help clarify the priorities, shape the architecture and turn the strategy into something a team can operate and improve.
 
-</td>
-<td align="center" width="33%">
+- **Direction.** Connect investment choices to business priorities. Define what to build, what to simplify and what to leave behind.
+- **Architecture.** Bring platforms, data and AI into a coherent operating model, with clear ownership and practical constraints.
+- **Adoption.** Work with the people who will use and maintain the solution. Make knowledge transfer and validation part of delivery.
 
-### 5 years
-as Proportione
+## Strategy in practice
 
-</td>
-<td align="center" width="33%">
+### [Lejan · A technology strategy worthy of the brand](https://proportione.com/lejan-ventas-masivas/)
 
-### 2 cities
-Aveiro · Madrid
+A year of preparation behind an eCommerce platform: technology choices, performance, stock management and team readiness aligned with the brand's ambition.
 
-</td>
-</tr>
-</table>
+[Explore the Lejan story →](https://proportione.com/lejan-ventas-masivas/)
 
----
+### [porqueViven · Digital services with a human purpose](https://proportione.com/porqueviven/)
 
-## Strategy is the work
+Digital communication and resources for a foundation supporting children and their families. A case in aligning technology with the needs of a mission-led organisation.
 
-Most AI initiatives fail at the people layer, not the model layer. We were shipping recommender systems before machine learning was a board-level acronym, training teams on GPT-3 twenty months before ChatGPT, and operating production AI agents today. Proportione, founded in 2021, is what twenty years of that work made possible.
+### [IITD · An institution's next digital chapter](https://proportione.com/instituto-teologia/)
 
-Our practice is built around three vectors: **strategy** — where AI actually creates leverage; **research** — applied work, publications, and a doctoral programme at the Universidade de Aveiro; and **engineering discipline** — the controls that turn pilots into production.
+The digital experience of an educational institution, with attention to navigation, accessibility and performance.
+
+[Explore our industries →](https://proportione.com/industrias/)
 
 ---
 
-## The 20·60·20 framework
+## Open work, available to inspect
 
-```mermaid
-flowchart LR
-    A["<b>20%</b><br/>Define<br/><sub>your team frames<br/>the problem</sub>"] --> B["<b>60%</b><br/>Execute<br/><sub>AI handles the<br/>routine work</sub>"] --> C["<b>20%</b><br/>Validate<br/><sub>your team learns,<br/>refines, owns</sub>"]
-    style A fill:#F5EFE6,stroke:#5F322F,stroke-width:2px,color:#5F322F
-    style B fill:#5F322F,stroke:#5F322F,stroke-width:2px,color:#F5EFE6
-    style C fill:#F5EFE6,stroke:#5F322F,stroke-width:2px,color:#5F322F
-```
+Our public repositories bring together applied research, engineering tools and creative exploration. Each project documents its own scope, setup and terms of use.
 
-Seventy percent of transformations fail because of people, not technology. The 20·60·20 framework keeps human intelligence at the boundaries of every workflow — defining what matters and validating what works — while AI takes the routine middle. It is the only configuration we have seen consistently produce sticky outcomes.
+| Project | What you can explore |
+| :--- | :--- |
+| [**proVisio**](https://github.com/Proportione/proVisio) | Business intelligence research for SMEs: business KPIs, digital signals and a reproducible reference implementation. |
+| [**prisma**](https://github.com/Proportione/prisma) | A Python toolkit for systematic literature reviews, with PRISMA 2020 reporting, MMAT 2018 assessment and bibliometrics. |
+| [**proportione-plugins**](https://github.com/Proportione/proportione-plugins) | Engineering quality tools and practical playbooks for teams working with AI agents. |
+| [**claude-code-showcase**](https://github.com/Proportione/claude-code-showcase) | Configurations, hooks and MCP patterns from our daily engineering work. |
+| [**voxelers-3d**](https://github.com/Proportione/voxelers-3d) | A voxel-native 3D stack for creative prototyping with Blender, MagicaVoxel and Godot. |
+| [**engineering**](https://github.com/Proportione/engineering) | Architecture decisions, applied research and reusable engineering lessons. |
 
----
+[Read the engineering journal →](https://engineering.proportione.com)
 
-## Featured project
+## People at the boundaries of AI
 
-### [Aviaria Civil](https://civil.proportione.com) — Bird-strike risk for civil aviation
+Our **20·60·20 framework** gives teams a clear role in AI-assisted work: define the problem, use AI for suitable execution tasks, then validate and refine the result. Human judgement and ownership remain part of the process throughout.
 
-Real-time bird-hazard intelligence for pilots and small aerodromes. Twenty-two risk layers (eBird, GBIF, migration corridors, power lines, terrain), route analysis over CORINE land cover, PWA installable on iPad in the cockpit, offline-ready. Built in collaboration with Spain's BACSI (Air & Space Force bird-strike committee). **Free for civil aviation operators.**
-
-→ [civil.proportione.com](https://civil.proportione.com)
-
----
-
-## What we publish
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [prisma](https://github.com/Proportione/prisma)
-
-A Python toolkit for systematic literature reviews. PRISMA 2020 reporting, MMAT 2018 quality assessment, full-text extraction, bibliometric clustering. CLI + Streamlit demo. Born from our doctoral research at UA.
-
-`MIT` · `research` · `prisma-2020` · `python`
-
-</td>
-<td width="50%" valign="top">
-
-### Research line
-
-Doctoral research at **Universidade de Aveiro** in *Business Innovation*, working at the intersection of generative AI and organisational change. Field notes on the engineering blog.
-
-`PhD` · `research`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [proportione-plugins](https://github.com/Proportione/proportione-plugins)
-
-Our internal Claude Code marketplace, opened to clients. Nine quality skills — deep review, security, architecture, performance, WordPress, Terraform — and eight playbooks distilled from production work.
-
-`MIT` · `claude-code` · `mcp`
-
-</td>
-<td width="50%" valign="top">
-
-### [claude-code-showcase](https://github.com/Proportione/claude-code-showcase)
-
-Configurations, hooks, slash commands, and MCP patterns we use daily. Reusable material for teams bringing agentic AI into production.
-
-`MIT` · `agentic-ai` · `showcase`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [voxelers-3d](https://github.com/Proportione/voxelers-3d)
-
-Voxel-native 3D stack — Blender, MagicaVoxel, Godot, procedural generation. The geometric primitive behind our digital-twin and creative work. See [voxelers.com](https://voxelers.com).
-
-`Apache-2.0` · `digital-twin` · `voxels`
-
-</td>
-<td width="50%" valign="top">
-
-### [engineering.proportione.com](https://engineering.proportione.com)
-
-Engineering blog. Post-mortems, architecture decisions, and applied research from the team — written in English, for technical audiences.
-
-`Jekyll` · `publications`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [porqueViven](https://github.com/Proportione/porqueViven)
-
-Open-source work with the porqueViven foundation. Tooling for caregivers of chronically ill children — pro-bono engineering, public license.
-
-`MIT` · `third-sector`
-
-</td>
-<td width="50%" valign="top">
-
-### [Café Proportione PT](https://open.spotify.com/show/4CJj2IGBwpbxpyPTFmt3je)
-
-Podcast em português sobre IA, indústria e ecossistemas ibéricos. Episódio 01: *dois anos em Aveiro, em silêncio*. [Spotify](https://open.spotify.com/show/4CJj2IGBwpbxpyPTFmt3je) · [YouTube](https://youtu.be/af5ZztGznl4)
-
-`pt-PT` · `podcast` · `Aveiro`
-
-</td>
-</tr>
-</table>
-
----
-
-## How we operate
-
-Every change is peer-reviewed under branch protection. Production deploys require manual approval in a separate environment. Every decision is in the audit log. Our clients do not depend on a person — they depend on a process that can be inspected, reproduced, and where appropriate, opened.
-
-[Issues](https://github.com/Proportione/proportione-plugins/issues) · [Discussions](https://github.com/Proportione/proportione-plugins/discussions) · [Security policy](https://github.com/Proportione/proportione-plugins/blob/main/SECURITY.md)
-
----
-
-## Where we are
-
-**Aveiro, Portugal** — Rua D. Jorge de Lencastre 10A
-Madrid presence · Iberian footprint · LATAM-ready
+[See our methodology →](https://proportione.com/marco-20-60-20-tirant-lo-blanch/)
 
 ---
 
 <div align="center">
 
-[**proportione.com/contact**](https://proportione.com/contacto)
+**What is the next technology decision your business needs to make?**
+
+[Discuss it with Proportione →](https://proportione.com/contacto/)
 
 </div>
