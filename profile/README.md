@@ -40,6 +40,18 @@ The digital experience of an educational institution, with attention to navigati
 
 [Explore our industries →](https://proportione.com/industrias/)
 
+## In the making · Proportione LMS
+
+A virtual classroom built for public trust. We are building our own learning platform for educational institutions and the public sector: catalogue and enrolment, a classroom with video, documents and SCORM packages, assessment, moderated forums and verifiable certificates. It is under construction, with first trials planned for late 2026.
+
+- **Accessible by design.** WCAG 2.1 AA as the target, usable from 320 px, server-rendered pages on GOV.UK Frontend patterns.
+- **Data stays in the EU.** Its cloud projects live in Google Cloud in Madrid, under an organisation policy that only allows EU locations (tested: a US resource is rejected).
+- **No third-party trackers.** No external analytics or embedded third-party video in the classroom, to be enforced by a strict content security policy.
+- **One core, many institutions.** Every institution runs the same product in its own isolated cloud project; differences are configuration, not forks.
+- **Verifiable engineering.** CI checks that fail closed, and every new check must be seen failing before it is trusted.
+
+[About the platform →](https://github.com/Proportione/aula) · [Talk to us about it →](https://proportione.com/contacto/)
+
 ---
 
 ## Open work, available to inspect
@@ -48,6 +60,7 @@ Our public repositories bring together applied research, engineering tools and c
 
 | Project | What you can explore |
 | :--- | :--- |
+| [**aula**](https://github.com/Proportione/aula) | Our learning platform in the making: capabilities, architecture, a look under the hood and status. |
 | [**proVisio**](https://github.com/Proportione/proVisio) | Business intelligence research for SMEs: business KPIs, digital signals and a reproducible reference implementation. |
 | [**prisma**](https://github.com/Proportione/prisma) | A Python toolkit for systematic literature reviews, with PRISMA 2020 reporting, MMAT 2018 assessment and bibliometrics. |
 | [**proportione-plugins**](https://github.com/Proportione/proportione-plugins) | Engineering quality tools and practical playbooks for teams working with AI agents. |
