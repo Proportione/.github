@@ -63,8 +63,6 @@ Our public repositories bring together applied research, engineering tools and c
 | [**aula**](https://github.com/Proportione/aula) | Our learning platform in the making: capabilities, architecture, a look under the hood and status. |
 | [**proVisio**](https://github.com/Proportione/proVisio) | Business intelligence research for SMEs: business KPIs, digital signals and a reproducible reference implementation. |
 | [**prisma**](https://github.com/Proportione/prisma) | A Python toolkit for systematic literature reviews, with PRISMA 2020 reporting, MMAT 2018 assessment and bibliometrics. [DOI 10.5281/zenodo.19883809](https://doi.org/10.5281/zenodo.19883809) |
-| [**proportione-plugins**](https://github.com/Proportione/proportione-plugins) | Engineering quality tools and practical playbooks for teams working with AI agents. |
-| [**claude-code-showcase**](https://github.com/Proportione/claude-code-showcase) | Configurations, hooks and MCP patterns from our daily engineering work. |
 | [**voxelers-3d**](https://github.com/Proportione/voxelers-3d) | A voxel-native 3D stack for creative prototyping with Blender, MagicaVoxel and Godot. |
 | [**engineering**](https://github.com/Proportione/engineering) | Architecture decisions, applied research and reusable engineering lessons. |
 
