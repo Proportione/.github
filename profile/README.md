@@ -8,7 +8,7 @@ We work with leadership teams to connect business ambition, technology decisions
 
 **Aveiro · Madrid**
 
-[Our practice](https://proportione.com) · [Client stories](https://proportione.com/clientes/) · [Engineering journal](https://engineering.proportione.com) · [Start a conversation](https://proportione.com/contacto/)
+[Our practice](https://proportione.com) · [Client stories](https://proportione.com/clientes/) · [Research](https://proportione.com/investigacion/) · [Engineering journal](https://engineering.proportione.com) · [Start a conversation](https://proportione.com/contacto/)
 
 </div>
 
@@ -62,7 +62,7 @@ Our public repositories bring together applied research, engineering tools and c
 | :--- | :--- |
 | [**aula**](https://github.com/Proportione/aula) | Our learning platform in the making: capabilities, architecture, a look under the hood and status. |
 | [**proVisio**](https://github.com/Proportione/proVisio) | Business intelligence research for SMEs: business KPIs, digital signals and a reproducible reference implementation. |
-| [**prisma**](https://github.com/Proportione/prisma) | A Python toolkit for systematic literature reviews, with PRISMA 2020 reporting, MMAT 2018 assessment and bibliometrics. |
+| [**prisma**](https://github.com/Proportione/prisma) | A Python toolkit for systematic literature reviews, with PRISMA 2020 reporting, MMAT 2018 assessment and bibliometrics. [DOI 10.5281/zenodo.19883809](https://doi.org/10.5281/zenodo.19883809) |
 | [**proportione-plugins**](https://github.com/Proportione/proportione-plugins) | Engineering quality tools and practical playbooks for teams working with AI agents. |
 | [**claude-code-showcase**](https://github.com/Proportione/claude-code-showcase) | Configurations, hooks and MCP patterns from our daily engineering work. |
 | [**voxelers-3d**](https://github.com/Proportione/voxelers-3d) | A voxel-native 3D stack for creative prototyping with Blender, MagicaVoxel and Godot. |
@@ -70,11 +70,19 @@ Our public repositories bring together applied research, engineering tools and c
 
 [Read the engineering journal →](https://engineering.proportione.com)
 
-## People at the boundaries of AI
+## Applied research · from the systems you already run to better decisions
 
-Our **20·60·20 framework** gives teams a clear role in AI-assisted work: define the problem, use AI for suitable execution tasks, then validate and refine the result. Human judgement and ownership remain part of the process throughout.
+We research how generative AI can help a company decide better with the data it already has, including the data held in older systems that nobody wants to touch. The work goes through peer review and stays open to inspect.
 
-[See our methodology →](https://proportione.com/marco-20-60-20-tirant-lo-blanch/)
+| Line | The question | Where it stands |
+| :--- | :--- | :--- |
+| [**ProVisio**](https://proportione.com/investigacion/provisio/) | Can business KPIs and digital signals, read together through generative AI, support the decisions of a small or medium-sized company? | Paper presented at CAPSI 2026 (Coimbra; proceedings in press) and at CIDEMA 2025 (McGraw Hill). Reference implementation: [proVisio](https://github.com/Proportione/proVisio). |
+| [**Cognitio**](https://proportione.com/investigacion/cognitio/) | How should people and AI share the work when teaching and assessing? | The **20·60·20 framework**: define the problem, let AI do the suitable execution, then validate and refine. Chapter in Tirant lo Blanch (2026); posters at TLF@UA and EPIC (Zenodo). |
+| [**Aviaria**](https://proportione.com/investigacion/aviaria/) | How can AI support safety-critical decisions responsibly? | Decision support for wildlife-strike risk in civil aviation: [BirdRisk](https://birdrisk.com/). |
+
+Human judgement and ownership remain part of the process throughout. Research led by Javier Cuervo, PhD candidate in Business Innovation at the University of Aveiro ([ORCID](https://orcid.org/0009-0006-7134-2894)).
+
+[See the research →](https://proportione.com/investigacion/) · [Em português →](https://proportione.pt/investigacao) · [The 20·60·20 methodology →](https://proportione.com/marco-20-60-20-tirant-lo-blanch/)
 
 ---
 
